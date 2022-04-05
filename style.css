@@ -1,0 +1,53 @@
+.my_nav_bar{
+    position: sticky;
+    top:0px;
+    z-index: 999;
+}
+#navbar{
+    background: linear-gradient(#81D4FA 0%,white 100%);
+    background-repeat: no-repeat;
+    text-align: center; 
+}
+#t{
+    color: black;
+}
+#pin{
+   background: linear-gradient(white 0%,red 100%);
+    background-repeat: no-repeat;
+    text-align: center;  
+}
+#music{
+ background: linear-gradient(#2E7D32 0%,black 100%);
+    background-repeat: no-repeat;
+    text-align: center;   
+}
+#pic{
+    height:300px;
+    width:320px;
+}
+#yt{
+    background: linear-gradient(#E57373 0%,#E53935 100%);
+    background-repeat: no-repeat;
+    text-align: center
+}
+#insta{
+    background: linear-gradient(#BA68C8 0%,#F06292 100%);
+    background-repeat: no-repeat;
+    text-align:center;
+}
+#tik{
+    background: linear-gradient(#E91E63 0%,#29B6F6 100%);
+    background-repeat: no-repeat;
+    text-align:center;
+}
+#imgs{
+    height:70px;
+    width:70px;
+}
+#img{
+    height:70px;
+    width:100px;
+}
+#ex{
+    color:white;
+}
